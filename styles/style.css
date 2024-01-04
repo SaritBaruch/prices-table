@@ -1,0 +1,22 @@
+.dropdown-toggle {
+    font-weight:bold;
+}
+
+.Metallica:link {
+    text-decoration:none;
+    color: black;
+}
+
+.Evanescence:link {
+    text-decoration:none;
+    color: black
+}
+
+.Beatles:link {
+    text-decoration:none;
+    color: black;
+}
+
+.active:active {
+    color: #rgb(0 0 0 / 65%);
+}

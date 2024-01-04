@@ -1,0 +1,20 @@
+.Metallica:link {
+    text-decoration:none;
+    color: black;
+}
+
+.Evanescence:link {
+    text-decoration:none;
+    color: black
+}
+
+.Beatles:link {
+    text-decoration:none;
+    color: black;
+}
+
+.d-block {
+    object-fit:fill;
+    width: 300px;
+    height: 600px;
+}
